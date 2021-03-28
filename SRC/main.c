@@ -1,4 +1,4 @@
-// Alogtherim Outline
+// Algorithm Outline
 #include <stdio.h>
 #include <stdbool.h>
 
